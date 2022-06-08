@@ -83,11 +83,12 @@ author:
   name             : "Fudong Lin"
   avatar           : "profile.png"
   bio              : "fudonglin1@louisiana.edu"
-  location         : "James Oliver Hall 352, <br /> 301 E Lewis Street, <br /> Lafayette, LA, 70503"
+  #location         : "James Oliver Hall 352, <br /> 301 E Lewis Street, <br /> Lafayette, LA, 70503"
+  location         : "Lafayette, LA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=IUyVwn8AAAAJ"
-  email            :
+  email            :  "fudonglin1@louisiana.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
