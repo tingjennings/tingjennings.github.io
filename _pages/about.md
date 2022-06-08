@@ -10,12 +10,24 @@ redirect_from:
 
 
 
-## Education
+# Education
+
+- Ph.D. student in Computer Science, 2021 -- present
+
+  **University of Louisiana at Lafayette**,  Lafayette, LA
+
+- B.S. in Software Engineer, 2016
+
+  **Shandong University**, Jinan, China
 
 
 
-## Publications
+
+
+# Publications
 
 
 
-## Academic Services
+# Academic Services
+
+- Reviewer for ICML 2022
