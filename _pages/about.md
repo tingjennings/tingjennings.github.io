@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informatics at University of Louisiana at Lafayette, supervised by [Dr. Xu Yuan](https://people.cmix.louisiana.edu/yuan/index.html). I received my bachelor's degree from Shandong University, China, in 2016. From 2016 to 2020, I worked in the industry developing Cloud Computing and Internet of Things (IoT) applications. My research interests lie in the theory and applications of Deep Learning (DL), including DL security, DL in long-tailed recognization, and DL for climate change.
+Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informatics at University of Louisiana at Lafayette (ULL), supervised by [Dr. Xu Yuan](https://people.cmix.louisiana.edu/yuan/index.html). I received my bachelor's degree from Shandong University, China, in 2016. From 2016 to 2020, I worked in the industry developing Cloud Computing and Internet of Things (IoT) applications. My research interests lie in the theory and applications of Deep Learning (DL), including DL security, DL in long-tailed recognization, and DL for climate change.
 
 
 
@@ -29,6 +29,17 @@ Hello, I am Fudong Lin, a Ph.D. student in the School of Computing and Informati
 
 
 # Publications
+
+### 2022
+
+- **Fudong Lin**, Xu Yuan, Yihe Zhang, Li Chen, Purushottam Sigdel, Lu Peng, Nian-Feng Tzeng. "Comprehensive Transformer-based Model Architecture for Real-World Storm Prediction". arXiv preprint (under review).
+- **Fudong Lin**, Yihe Zhang, Xu Yuan, and Nian-Feng Tzeng, "Information-Preservable Undersampling Approach
+  for Imbalanced Classification”. arXiv preprint (under review).
+- **Fudong Lin**, Yihe Zhang, Hao Wang, Brian Jalaian, Xu Yuan, and Nian-Feng Tzeng, "Towards Fast and Transferable Sparse Adversarial Attacks”, arXiv preprint (under review).
+- **Fudong Lin**, Xu Yuan, Lu Peng, and Nian-Feng Tzeng, "Cascade Variational Auto-Encoder for Hierarchical
+  Disentanglement”, arXiv preprint (under review).
+
+
 
 ### 2021
 
