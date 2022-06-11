@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fudong Lin"
+title                    : "Ting Jennings"
 title_separator          : "-"
-name                     : &name "Fudong Lin"
+name                     : &name "Ting Jennings"
 description              : &description "personal description"
-url                      : https://fudong03.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://tingjennings.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fudong Lin"
-  avatar           : "fudong.jpg"
-  bio              : "CS Ph.D. Student </br> fudonglin1@louisiana.edu"
-  location         : "Lafayette, LA"
+  name             : "Ting Jennings"
+  avatar           : "ting.jpg"
+  bio              : "Data Scientist and Analyst </br> tingjennings@gmail.com"
+  location         : "Johns Creek, GA"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=IUyVwn8AAAAJ"
+  #googlescholar    : ""
   #email            :  "fudonglin1@louisiana.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fudong03"
+  github           : "tingjennings"
   google_plus      :
   keybase          :
   instagram        :
