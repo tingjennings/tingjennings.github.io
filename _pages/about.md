@@ -20,5 +20,5 @@ Hello, I am Ting Jennings, an undergraduate student at Arizona State University.
 
 # Contact
 
-**Email:** tingjennings1@gmail.com
+**Email:** tingjennings2@gmail.com
 
