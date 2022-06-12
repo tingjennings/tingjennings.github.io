@@ -10,7 +10,7 @@ redirect_from:
 
 # About
 
-Hello, I am Ting Jennings, an undergraduate student at Arizona State University.
+Hello, I am Ting Jennings, an undergraduate student at Arizona State University. 
 
 
 
